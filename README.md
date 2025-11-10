@@ -1,2 +1,13 @@
-# diabetes-expert-system
-Aplikasi ini merupakan sistem pakar berbasis Certainty Factor yang digunakan sebagai alat bantu skrining awal risiko diabetes. Model ini menggabungkan konsep logika fuzzy untuk menilai tingkat keparahan tiap parameter kesehatan serta aturan inferensi untuk menentukan tingkat risiko pengguna.
+---
+title: Sistem Pakar Risiko Diabetes
+emoji: 🩸
+colorFrom: red
+colorTo: blue
+sdk: gradio
+sdk_version: "4.44.0"
+app_file: app.py
+pinned: false
+---
+
+# Sistem Pakar Risiko Diabetes
+A rule-based expert system (Certainty Factor + fuzzy memberships) with a Gradio UI.
